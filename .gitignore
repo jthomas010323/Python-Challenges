@@ -1,2 +1,4 @@
 .myenv
 *.txt
+**/__pycache__/
+ingnorefolder/

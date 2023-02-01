@@ -1,0 +1,6 @@
+.myenv
+*.txt
+**/__pycache__/
+ingnorefolder/
+.idea/
+venv/
